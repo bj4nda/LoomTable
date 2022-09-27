@@ -1,7 +1,7 @@
 #Students Scores Table with Action Buttons
 
-This is a 6-column students scores card made to help improve my DOM skills by building a realistic project.
-
+This is a 6-column students scores card
+Made this project to help improve my DOM manipulation skills by building a realistic project.
 Work done with HTML, CSS, and JS.
 
 Users should be able to:
