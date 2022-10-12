@@ -8,7 +8,7 @@ Users should be able to:
 
 Create a HTML table dynamically using JS, DOM manipulation and write functions for adding interface.
 
-Solution URL: https://github.com/bj4nda/LoomTable
-Live Site URL: https://calm-licorice-c9992b.netlify.app/
+<h1> Demo Site </h2> 
+https://calm-licorice-c9992b.netlify.app/
 
 
